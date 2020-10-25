@@ -2,6 +2,6 @@
 저는 개발자 스텔리입니다.
 주로 하는건 디스코드 봇 개발입니다. 개발한지는 4년이 넘었습니다. 👍
 
-[![STELLI's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stellidev)](https://github.com/anuraghazra/github-readme-stats)
+[![STELLI's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stellidev)](https://github.com/StelliDev/StelliDev)
 
 ![STELLI's github stats](https://github-readme-stats.vercel.app/api?username=stellidev&show_icons=true)
