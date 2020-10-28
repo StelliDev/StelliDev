@@ -11,4 +11,4 @@
   <strong><a href="https://www.youtube.com/channel/UCMDG3f8kmRtuTCu8kSIh6OQ">YouTube</a></strong> |
   <strong><a href="https://www.twitch.tv/stellidev">Twitch</a></strong>
 </p>
-<p align="center">❤ I'm Discord Bot Dev</p>
+<p align="center">⛏ I'm Discord Bot Dev ⛏</p>
