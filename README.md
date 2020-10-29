@@ -2,7 +2,7 @@
   <a href="https://stelli.netlify.app/"><img src="banner.png" alt="Banner.png"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://github.com/StelliDev">STELLI</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/stellidev">STELLI</a>!</h1>
 
 <p align="center">
   <strong><a href="https://github.com/stellidev">Official Website</a></strong> |
