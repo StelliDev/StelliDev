@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://stelli.netlify.app/"><img src="banner.png" alt="Banner.png"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://github.com/stellidev">STELLI</a>!</h1>
