@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://github.com/stellidev">STELLI</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/Syle777">Syle777</a>!</h1>
 
 <p align="center">
   <strong><a href="https://github.com/stellidev">Official Website</a></strong> |
@@ -10,4 +10,4 @@
   <strong><a href="https://www.youtube.com/channel/UCMDG3f8kmRtuTCu8kSIh6OQ">YouTube</a></strong> |
   <strong><a href="https://www.twitch.tv/stellidev">Twitch</a></strong>
 </p>
-<p align="center">⛏ I'm just coder ⛏</p>
+<p align="center">⛏ Im coder ⛏</p>
