@@ -19,7 +19,7 @@ If you want to contact me, please leave me a message! / Discord: test#0000
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://discord.gg/JbZ4dC6j" target="_blank">
+<a href="https://discord.gg/JbZ4fC6j" target="_blank">
 <img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
 
