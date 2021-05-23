@@ -6,6 +6,7 @@
 Hello, everyone! ❤
 
 I am a amateur developer from South Korea.
+
 I usually read books and draw pictures. And I am interested in big data and deep learning and computer vision.
 
 If you want to contact me, please leave me a message! / Discord: test#0000
