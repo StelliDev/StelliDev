@@ -1,9 +1,6 @@
-## Hi There 👋
+## Hello, I'm Lunia7!
 
-
-### Hello, I'm Lunia7!
-
-Hello, everyone! ❤
+( つ ’ - ’ )╮—̳͟͞♡ ( ’ - ’ )
 
 I am a amateur developer from South Korea.
 
