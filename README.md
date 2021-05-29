@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=_hexcode&height=300&section=header&text=LUNIA%207&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Soft&animation=fadeIn&color=007CFF&height=300&section=header&text=LUNIA%207&fontSize=90)
 
-## Hi there, I'm Lunia7!
+## 💕 Hi there, I'm Lunia7!
 
-I am a amateur developer from South Korea.
+I am a amateur developer from South Korea. 
 
 I usually draw pictures and read books. And I'm interested in big data and computer vision. :3
 
