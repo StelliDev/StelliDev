@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LUNIA%207&fontSize=90)
+
 ## Hi there, I'm Lunia7!
 
 I am a amateur developer from South Korea.
